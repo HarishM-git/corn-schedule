@@ -2,7 +2,7 @@ name: Ping API
 
 on:
   schedule:
-    - cron: '0 12 * * *' # Runs every day at 12 PM UTC
+    - cron: '9 16 * * *'  # Runs every day at 12 PM UTC
 
 jobs:
   ping:
